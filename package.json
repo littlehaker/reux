@@ -1,0 +1,9 @@
+{
+  "name": "reux",
+  "version": "0.0.1",
+  "description": "A state container using rx.js",
+  "main": "index.js",
+  "repository": "git@github.com:littlehaker/reux.git",
+  "author": "Young <littlehaker@gmail.com>",
+  "license": "MIT"
+}
